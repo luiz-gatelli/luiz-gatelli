@@ -1,10 +1,8 @@
 # Luiz Gatelli
 
 ## 👋 Hello World
-Curently working as a Support Engineer in _Application Security_
-
-Graduated in Electrical Engineering ⚡ @ UFRGS (2021/1)
-
+Curently working as a Support Engineer in _Application Security_  
+Graduated in Electrical Engineering ⚡ @ UFRGS (2021/1)  
 Passionate about solving problems of any kind
 
 
