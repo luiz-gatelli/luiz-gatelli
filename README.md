@@ -18,11 +18,5 @@ Passionate about solving problems of any kind
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Matlab-05122A?style=flat&logo=matlab" alt="matlab Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
-
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-gatelli&theme=default&layout=compact&langs_count=5">
-</div>
